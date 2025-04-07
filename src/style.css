@@ -28,12 +28,14 @@ body {
 .bottom-right {
     bottom: -5px;
     right: 10px;
+    transform: rotate(180deg);
     
 }
 
 .valor {
     font-size: 100px;
     text-align: center;
+    color: black;
 }
 
 .corazon,
