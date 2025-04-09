@@ -6,7 +6,6 @@ window.onload = function () {
 
   document.getElementById("CambiarCarta").addEventListener("click", generarCarta);
 
-  document.getElementById("cambiar-tamaño").addEventListener("click", cambiarTamaño)
 };
 
 function generarCarta() {
